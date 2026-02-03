@@ -42,11 +42,7 @@ I am also looking for help and opportunities to expand and maintain my knowledge
 
 ---
 
-## 📊 GitHub Stats
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smolk-ke\&show_icons=true\&theme=tokyonight)
-
----
 
 You can reach me through any of the social media platforms listed below.
 
@@ -56,5 +52,6 @@ You can reach me through any of the social media platforms listed below.
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail\&logoColor=white)](mailto:alvesantonio2407@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/users/345233893613502465)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/antonio.alvesn/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/Smolk-ke)
 
 
