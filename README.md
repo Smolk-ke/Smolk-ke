@@ -1,52 +1,57 @@
-# Hello, I'm Antonio Alves 👾
-### Bachelor’s degree in Computer Engineering | UFRPE 💻 (currently pursuing)
 
-## *About me*
+# Olá, eu sou Antonio Alves 👾
+### Bacharelado em Engenharia da Computação | UFRPE 💻 (em andamento)
 
-```python
-print("Hello World!")
-```
+## *Sobre mim*
 
-Since I was a little kid, I’ve always enjoyed technology and everything related to computers. I’ve always been passionate about games and how they work behind the scenes.
+```C
+#include <stdio.h>
 
-When I started thinking about what I wanted to do for a living, I realized that studying hardware and software was a way to combine purpose, curiosity, and fulfillment — turning my childhood passion into a career.
+int main(){
+  printf("Hello World!");
+  return 0;
+}
+````
 
-I will soon begin my degree in Computer Engineering at UFRPE, focusing on building a strong foundation in programming, systems, electronics, and technology in general.
+Desde pequeno, sempre gostei de tecnologia e de tudo relacionado a computadores. 
 
-I enjoy learning by doing, building projects, and solving real-world problems. I’m looking for opportunities to grow in the tech field, collaborate on projects, and continue evolving as a developer and engineer.
+Quando comecei a pensar no que queria fazer profissionalmente, percebi que estudar hardware e software era uma forma de unir propósito, curiosidade e realização, transformando uma paixão de infância em carreira.
 
-Currently, I am learning Python and deepening my understanding of programming logic, problem-solving, and software development principles. I am interested in collaborating on team-based projects, open-source initiatives, and any work that encourages shared learning, communication, and collective growth.
+Iniciei minha graduação em Engenharia da Computação na UFRPE, com foco em construir uma base sólida em programação, sistemas, eletrônica e tecnologia em geral.
 
-I am also looking for help and opportunities to expand and maintain my knowledge in programming, and I am open to exploring new areas such as data science, artificial intelligence, cybersecurity, web development, and embedded systems.
+Gosto de aprender na prática, desenvolvendo projetos e resolvendo problemas do mundo real. Busco oportunidades para crescer na área de tecnologia, colaborar em projetos e continuar evoluindo como desenvolvedor e engenheiro.
 
----
+Atualmente, estou aprendendo C e aprofundando meu entendimento em lógica de programação, resolução de problemas e princípios de desenvolvimento de software. Tenho interesse em colaborar em projetos em equipe, iniciativas open source e qualquer atividade que estimule aprendizado coletivo, comunicação e crescimento conjunto.
 
-> “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle
-
----
-
-## 🛠️ Technologies & Tools
-
-* **Languages:** Python(learning)
-* **Web:** HTML (basic)
-* **Tools:** GitHub, VS Code
-* **Areas of Interest:** Cybersecurity, Data Science, AI, Embedded Systems
+Também estou em busca de oportunidades para expandir e consolidar meus conhecimentos em programação, estando aberto a explorar áreas como ciência de dados, inteligência artificial, hardware e sistemas embarcados.
 
 ---
 
-## 🎯 Goals
-
-* Build a strong foundation in Computer Engineering
-* Contribute to open-source projects
-* Gain experience through internships and collaborative projects
+> “Nós somos o que repetidamente fazemos. A excelência, portanto, não é um ato, mas um hábito.” — Aristóteles
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
 
+* **Linguagens:** C
+* **Web:** HTML (básico)
+* **Ferramentas:** GitHub, VS Code, Eclipse
+* **Áreas de Interesse:** IA, Sistemas Embarcados, Arduino, Engenharia de Software
 
-You can reach me through any of the social media platforms listed below.
+---
 
-### 🔎 Where to find me? 🔍
+## 🎯 Objetivos
+
+* Construir uma base sólida em Engenharia da Computação
+* Contribuir para projetos open source
+* Adquirir experiência por meio de estágios e projetos colaborativos
+
+---
+
+Você pode entrar em contato comigo através das redes sociais listadas abaixo.
+
+### 🔎 Onde me encontrar? 🔍
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/antonio-alvesmolke/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail\&logoColor=white)](mailto:alvesantonio2407@gmail.com)
